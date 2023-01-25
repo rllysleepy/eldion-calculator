@@ -1,6 +1,7 @@
 # eldion-calculator
 A very, very unoptimized calculator for Eldion written in PyQt5.
 Honestly, I don't even know how to use Github.. please send help.
+I'm sorry for my shit code 😔😔😔
 
 Anyways, this should run most optimally on 1920 x 1080 displays, but idk...
 You can either choose to run the exe, or run it in your IDE:
