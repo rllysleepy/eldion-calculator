@@ -3,7 +3,7 @@ import sys
 import random
 from PyQt5.QtWidgets import *
 from PyQt5.QtCore import *
-from PyQt5.QtGui import *
+from PyQt5.QtGui import * 
 
 mob = {"weakzom":["Weak Zombie",0,10,2,1,5],"zom":["Zombie",2,25,4,2,15],"strzom":["Strong Zombie",5,50,8,6,40],"mutzom":["Mutant Zombie",10,100,20,10,90],
         "goutcast":["Goblin Outcast",15,200,30,25,180],"gguard":["Goblin Guard",20,450,45,55,300],"gchief":["Goblin Chief",25,750,60,100,550],
